@@ -6,44 +6,44 @@
 # link:         链接路径，无链接为空即可
 # preview:      预览路径，无则可以为空
 #
-- name: 中文标题一
-  en_name: ENGLISH TITLE 1
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-  cover: /images/sample/mydesk.png
+- name: 个性化定制
+  en_name: Personalized customization
+  description: 我们将根据客户的健康需求和特点，量身定制健康管理方案，确保针对性和有效性。
+  cover: /images/sample/gxh.jpg
   link: 
   preview: 
 
-- name: 中文标题二
-  en_name: ENGLISH TITLE 2
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-  cover: /images/sample/mydesk.png
+- name: 专业团队
+  en_name: Professional
+  description: 我们拥有一支由医学专家、健康管理师和营养师组成的专业团队，为客户提供权威的健康建议和服务。
+  cover: /images/sample/zytd.jpg
   link: 
   preview: 
 
-- name: 中文标题三
-  en_name: ENGLISH TITLE 3
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-  cover: /images/sample/mydesk.png
+- name: 前瞻性科技
+  en_name: Forward-looking technology
+  description: 我们紧跟健康科技的发展，运用先进的技术手段进行健康数据分析和预测，助力客户做出科学决策。
+  cover: /images/sample/qzx.png
   link: 
   preview: 
 
-- name: 中文标题四
-  en_name: ENGLISH TITLE 4
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-  cover: /images/sample/mydesk.png
+- name: 持续关怀
+  en_name: Continuous care
+  description: 我们与客户建立长期的合作关系，持续关注和跟进健康状况，及时调整管理方案，确保效果最大化。
+  cover: /images/sample/cxgh.jpg
   link: 
   preview: 
 
-- name: 中文标题五
-  en_name: ENGLISH TITLE 5
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-  cover: /images/sample/mydesk.png
+- name: 社会责任
+  en_name: Social responsibility
+  description: 我们积极履行企业社会责任，关注公益事业，参与社区健康活动，推动社会健康事业的发展。
+  cover: /images/sample/shzr.jpg
   link: 
   preview: 
 
-- name: 中文标题六
-  en_name: ENGLISH TITLE 6
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-  cover: /images/sample/mydesk.png
+- name: 使命与愿景
+  en_name: Mission
+  description: 我们的使命是通过专业的健康咨询和管理服务，帮助每位客户拥有更健康、更幸福的生活。
+  cover: /images/sample/smyj.jpg
   link: 
   preview: 

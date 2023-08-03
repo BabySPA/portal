@@ -1,28 +1,20 @@
-## 企业文化
-# name:         标题
-# en_name:      英文标题
-# description:  描述内容
-# cover:        封面图片路径
-# cover_size:   封面图片大小
-# link:         链接路径，无链接为空即可
-#
-- name: 企业文化
-  en_name: 
-  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
+- name: 使命
+  en_name:
+  description: 我们的使命是通过专业的健康咨询和管理服务，帮助每位客户拥有更健康、更幸福的生活。
   cover: /images/culture/icon_1.svg
   cover_size: 64
   link:
 
-- name: 企业文化
-  en_name: 
-  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
+- name: 愿景
+  en_name:
+  description: 我们的愿景是成为健康咨询领域的领军企业，引领行业发展，推动社会健康进步。
   cover: /images/culture/icon_2.svg
   cover_size: 64
   link:
 
-- name: 企业文化
-  en_name: 
-  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
+- name: 价值观
+  en_name:
+  description: 我们坚持以客户为中心，秉承诚信、专业、创新的价值观，与客户携手共进，实现共赢。
   cover: /images/culture/icon_3.svg
   cover_size: 64
   link:
