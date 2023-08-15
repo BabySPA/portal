@@ -1,18 +1,21 @@
 <footer class="footer pt-5 mt-5">
   <div class="container">
     <div class="pt-3 pb-5">
-      <ul class="list-inline mb-0 text-center">
-        <li class="list-inline-item">&copy; <%= date(new Date(), 'YYYY') %> <%= config.title || config.author %></li>
+      <div class="text-center">
+        <div class="list-inline-item">&copy; <%= date(new Date(), 'YYYY') %> <%= config.title || config.author %></div>
         <% if (theme.beian.enable){ %>
-          <li class="list-inline-item">
+          <div class="list-inline-item" style="padding:20px 0;">
             <%if (theme.beian.url){ %>
               <a href="<%- url_for(theme.beian.url) %>" target="_blank"><%- theme.beian.number %></a>
               <% } else { %>
                 <%- theme.beian.number %>
             <% } %>
-          </li>
+              <div style="width:300px;margin:0 auto; padding:20px 0;">
+                <img src="https://www.beian.gov.cn/img/ghs.png" alt="" width=20 height=20/><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37150202000844" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">鲁公网安备 37150202000844号</p></a>
+              </div>
+          </div>
         <% } %>
-      </ul>
+      </div>
     </div>
   </div>
 </footer>
